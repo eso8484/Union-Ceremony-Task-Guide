@@ -30,7 +30,7 @@ This guide explains how to participate in the Union Testnet's **Trusted Setup Ce
    - Verify Docker is running: `docker --version`.
 
 
-## 🐳 Optional: Participate Using Docker
+## 🐳 Participate Using Docker
 
 For more advanced users, you can run the MPC client locally:
 
