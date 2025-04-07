@@ -38,7 +38,7 @@ For more advanced users, you can run the MPC client locally:
 sudo mkdir -p ceremony && \
 sudo docker pull ghcr.io/unionlabs/union/mpc-client:v1.2 && \
 sudo docker run -v $(pwd)/ceremony:/ceremony -w /ceremony -p 4919:4919 --rm -it ghcr.io/unionlabs/union/mpc-client:v1.2
-
+```
 5. **Contribute Randomness**
    - Follow the instructions on [ceremony.union.build](https://ceremony.union.build):
      - Run the provided Dockerized application in your terminal:
